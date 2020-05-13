@@ -1,0 +1,9 @@
+.app {
+  height: 500px;
+  width: 500px;
+  background-color: green;
+}
+.app div {
+  height: 50px;
+  width: 50px;
+}
