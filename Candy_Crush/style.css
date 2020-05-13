@@ -1,7 +1,8 @@
 .app {
   height: 500px;
   width: 500px;
-  background-color: green;
+  display: flex;
+  flex-wrap: wrap;
 }
 .app div {
   height: 50px;
